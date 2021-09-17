@@ -1,12 +1,5 @@
-## Personal Portfolio
+# Welcome to my Portfolio!
 
-### [Live Site](https://jsmasterypro.com)
+I was learning more about `Next.js` and putting my `React` skills to the test by developing my portfolio. Thank you to <a href= "https://github.com/adrianhajdin">Adrian</a>! I used his instructional YouTube video to make this portfolio!
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
-
-This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
-
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
-
-Setup:
-- run ```npm i && npm start```
+Check it out <a href= "https://guitartist42.vercel.app/"> here </a>!
