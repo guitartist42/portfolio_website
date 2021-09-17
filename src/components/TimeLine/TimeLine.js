@@ -46,7 +46,10 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+      Hey there! I'm a recent graduate of Duke University with 
+      degrees in Computer Science and Linguistics. I have internship experience as a 
+      Full Stack Engineer for the Duke Applied Machine Learning Group where I helped a
+       team of software engineers built an entire React Native <a href="https://github.com/guitartist42/dod-4th-medical-team">app </a> from scratch for the Department of Defense's 4th Medical Group.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
